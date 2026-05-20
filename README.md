@@ -1,2 +1,2 @@
 # Testing-tool
-测试过程中有可能需要用的工具
+## templatemail_poller.py 临时邮箱验证码获取
